@@ -1,1 +1,1 @@
-# Mock Google homepage from the Odin Project
+# Mock Google homepage from the Odin Project.
